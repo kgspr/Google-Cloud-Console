@@ -3,12 +3,6 @@ In this repository, I tried to learn Google API Services. I have used Google Clo
 
 First I singed to Google Cloud Console using my Google Account. In this occation, I singed as student & I got an API key from Google Cloud Console.
 
-API Key is something like this.
-```AIzaSyAiYwyx5hMYL-#####################```
-
-
-
-
 ## Table Of Contents
 1. [Google Maps](#google-maps)
 
